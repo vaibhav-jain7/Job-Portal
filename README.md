@@ -8,6 +8,7 @@ It allows users to explore job listings, view company details, and filter jobs e
 - Vite
 - JavaScript
 - CSS
+- HTML
 
 ## How to Run
 ```bash
